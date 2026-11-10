@@ -18,7 +18,6 @@
  *
  * Example:
  *   ./generate_dataset 2000 double_pendulum.csv
- *
  * Each visual frame contributes 16 samples, one for each inner update.
  */
 
