@@ -1,0 +1,19 @@
+{
+  "best_epoch": 59,
+  "epochs_completed": 60,
+  "validation_mse_normalized": 9.437010388637646e-06,
+  "test_rmse_rad_s2": {
+    "alpha1": 6.105396522551305e-06,
+    "alpha2": 1.7783675864137408e-05
+  },
+  "test_mae_rad_s2": {
+    "alpha1": 4.899433661194053e-06,
+    "alpha2": 1.4706309593748302e-05
+  },
+  "test_samples": 16000,
+  "test_trajectories": 1,
+  "split": "chronological 80/10/10 (single trajectory)",
+  "checkpoint": "double_pendulum_mlp.pt",
+  "history_csv": "double_pendulum_mlp.history.csv",
+  "plot_directory": "double_pendulum_mlp_training_plots"
+}
